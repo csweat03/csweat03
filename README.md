@@ -1,7 +1,7 @@
 - 👋 Hi, I’m `@csweat03`!
 - 👀 I’m interested in `C++, Python, and Server-Side Web Dev (SQL, PHP, etc)`
 - 🌱 I’m currently learning `General Information Technology`
-- 💞️ I’m looking to collaborate on any project, `I specialize in Java and Client-Side Web Dev (HTML, CSS, JS)`
+- 💞️ I’m looking to collaborate on any project, `I specialize in Java and Client-Side Web Dev`
 - 📫 How to reach me Email: [Personal] `sweatchristian03@gmail.com`, [Business] `admin@dsi-it.net`
 
 <!---
