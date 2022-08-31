@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [2DCPPGame](https://github.com/csweat03/2DCPPGame)
 
-- 👨‍💻 All of my projects are available at [https://github.com/csweat03](https://github.com/csweat03)
+- 👨‍💻 All of my projects are available at [https://github.com/csweat03?tab=repositories](https://github.com/csweat03?tab=repositories)
 
 - 💬 Ask me about **Vanilla JavaScript & Python, HTML/CSS, Java, C#, SQL, Object-Oriented Fundamentals**
 
