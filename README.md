@@ -29,7 +29,7 @@
 <p>&nbsp</p>
 <div align="center">
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=csweat03&show_icons=true&locale=en&layout=compact&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=csweat03&show_icons=true&locale=en&layout=compact&theme=onedark&card_width=250" />
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=csweat03&show_icons=true&locale=en&layout=compact&hide=issues&theme=onedark&line_height=24" />
