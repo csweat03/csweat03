@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">A passionate backend developer from the United States.</h3>
+<h3 align="center">A passionate full-stack developer from the United States.</h3>
 
 <p>&nbsp</p>
 
